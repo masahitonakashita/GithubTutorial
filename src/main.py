@@ -9,7 +9,9 @@ while True:
         break
     # -- ここに処理を追加してみよう --
     elif input_num == 1:
-        print("Hello world")
-    
+        print("Hello world1")
+    elif input_num == 2:
+        print("Thank you")
+
     else:
         print('該当するコマンドがありません')
